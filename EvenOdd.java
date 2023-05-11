@@ -1,7 +1,7 @@
 package topcrowd;
 import java.util.*;
 public class EvenOdd {
-	// in master   
+	// in b1  
 	private static int oddRounder(int num)
 	{
 		int temp;
